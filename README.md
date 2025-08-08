@@ -24,6 +24,26 @@
 
 ---
 
+## 🚀 Skills and Technologies
+
+### 💻 Programming Languages  
+`C++` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `Python`
+
+### 🌐 Frontend  
+`React.js` &nbsp;|&nbsp; `Next.js` &nbsp;|&nbsp; `Tailwind CSS` &nbsp;|&nbsp; `HTML5` &nbsp;|&nbsp; `CSS3`
+
+### 🛠️ Backend  
+`Node.js` &nbsp;|&nbsp; `Express.js` &nbsp;|&nbsp; `MongoDB` &nbsp;|&nbsp; `PostgreSQL`
+
+### 🧰 Dev Tools  
+`Git` &nbsp;|&nbsp; `GitHub` &nbsp;|&nbsp; `Postman` &nbsp;|&nbsp; `REST APIs` &nbsp;|&nbsp; `VS Code`
+
+### 📚 CS Fundamentals  
+`OOP` &nbsp;|&nbsp; `DBMS` &nbsp;|&nbsp; `Operating Systems` &nbsp;|&nbsp; `Computer Networks`
+
+---
+
+
 ## 📬 Let's Connect
 
 <p align="left">

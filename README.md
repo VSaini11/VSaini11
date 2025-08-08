@@ -24,10 +24,23 @@
 
 ---
 
-## 📫 Connect With Me
+## 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-saini-522398252/)
-- 💌 Email: vaibhavsaini709@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/vaibhav-saini-522398252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://vaibhav-saini.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://leetcode.com/u/vstheone11/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:vaibhavsaini709@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
 
 <!--
 This is a special GitHub profile README file. It appears on your GitHub profile page. 

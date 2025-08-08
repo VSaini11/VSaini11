@@ -1,36 +1,35 @@
-# 👋 Hi, I'm Vaibhav Saini (@VSaini11)
+<h1 align="center">Hi, I'm <a href="https://github.com/VSaini11" target="_blank">
+✨ Vaibhav Saini ✨</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-🎓 Final Year Computer Science Student | 💻 Full-Stack Web Developer | ⚙️ DSA Enthusiast in C++
-
-Welcome to my GitHub! I'm a passionate developer who enjoys building clean, scalable web applications and solving complex problems using data structures and algorithms. I believe in writing efficient, maintainable code and continuously learning new technologies to stay ahead in the field.
-
----
-
-## 💼 What I Bring to the Table
-
-- 🚀 Strong foundation in **Data Structures & Algorithms** (C++)
-- 🌐 Hands-on experience in **Full-Stack Development** with modern tools & frameworks
-- 🔒 Understanding of **secure authentication**, **role-based access**, and **edge-ready architectures**
-- 🛠️ Committed to writing clean code, following best practices, and building for performance
-- 🤝 Team-oriented mindset with a focus on collaboration, ownership, and growth
+<p align="center">
+🌱 Passionate Developer | 💻 Full-Stack Web Developer | ⚙️ C++ & DSA Enthusiast  
+</p>
 
 ---
 
-## 🧠 Technical Proficiency
-
-- **Languages**: C++, JavaScript, TypeScript, Python  
-- **Frontend**: React.js, Next.js, Tailwind CSS, HTML5, CSS3  
-- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL  
-- **Dev Tools**: Git & GitHub, Postman, REST APIs, VS Code  
-- **CS Core**: OOP, DBMS, OS, Computer Networks  
+🧠 I enjoy building full-stack applications that are secure, scalable, and easy to maintain.  
+⚙️ From solving algorithmic challenges to deploying real-world apps, I love the entire dev process.  
+🚀 Currently exploring advanced backend systems, edge runtimes, and performance optimization.  
+🤝 Always open to learning, collaboration, and growth.
 
 ---
 
-## 📫 Let's Connect
+## 🙋‍♂️ About Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-saini-522398252/)  
-- 📧 Email: vaibhavsaini709@gmail.com 
+- 🎓 Final year B.Tech Computer Science student  
+- 💻 Interests: Full-stack development, DSA, systems design, modern web architecture  
+- 🧰 Tech Stack: `C++`, `JavaScript`, `TypeScript`, `React`, `Next.js`, `Node.js`, `MongoDB`  
+- 🔍 Focus: Writing clean, maintainable code and building impactful products  
+- ✨ Fun Fact: I debug faster with coffee ☕  
 
 ---
 
-_Thanks for visiting! I’m always open to exciting opportunities and collaborative learning._
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-saini-522398252/)
+- 💌 Email: vaibhavsaini709@gmail.com
+
+<!--
+This is a special GitHub profile README file. It appears on your GitHub profile page. 
+You can customize this as much as you want.
+-->

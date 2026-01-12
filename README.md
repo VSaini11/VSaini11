@@ -59,7 +59,7 @@
   <a href="mailto:vaibhavsaini709@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-   <a href="mailto:https://www.hackerrank.com/profile/vaibhavsaini709" target="_blank">
+   <a href="https://www.hackerrank.com/profile/vaibhavsaini709" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
